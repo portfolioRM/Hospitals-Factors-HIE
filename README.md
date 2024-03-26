@@ -24,11 +24,11 @@ I combined five datasets detailed below to answer these questions:
 - Building Logistic and Linear Regression Models to Answer the Research Questions
 - Developing Insights from the Models<br><br>
 ## Files Uploaded:
-1.	*"RashmiMariyappa_HospitalHIE_Presentation"*<br>
+1.	*"RashmiMariyappa_1_HospitalHIE_Presentation"*<br>
 This presentation provides a full detail of the project, analysis, and key findings<br><br>
-2.	*"RashmiMariyappa_HospitalHIE_Report"*<br>
+2.	*"RashmiMariyappa_2_HospitalHIE_Report"*<br>
 This report further details the project, analysis, and key findings<br><br>
-3.	*"RashmiMariyappa_HospitalHIE_Merge_Code"*<br>
+3.	*"RashmiMariyappa_3_HospitalHIE_Merge_Code"*<br>
 The R code used to merge, clean, and prepare the data<br><br>
-4.	*"RashmiMariyappa_HospitalHIE_Analysis_Code"*<br>
+4.	*"RashmiMariyappa_4_HospitalHIE_Analysis_Code"*<br>
 The R code used for the data analysis and model building<br><br>
